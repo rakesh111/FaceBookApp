@@ -1,10 +1,12 @@
 ﻿using Android.App;
 using Android.OS;
 using Xamarin.Forms.Platform.Android;
+using Facebook;
+
 
 namespace OAuthTwoDemo.XForms.Android
 {
-	[Activity (Label = "OAuthTwoDemo.XForms.Android.Android", MainLauncher = true)]
+	[Activity (Label = "FaceBookApp.Android.Android", MainLauncher = true)]
 	public class MainActivity : AndroidActivity
 	{
 

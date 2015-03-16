@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="OAuthTwoDemo.XForms.Android">
   <uses-sdk android:minSdkVersion="15" />
   <application android:label="OAuthTwoDemo.XForms.Android" android:name="mono.android.app.Application" android:debuggable="true">
-    <activity android:label="OAuthTwoDemo.XForms.Android.Android" android:name="oauthtwodemo.xforms.android.MainActivity">
+    <activity android:label="FaceBookApp.Android.Android" android:name="oauthtwodemo.xforms.android.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

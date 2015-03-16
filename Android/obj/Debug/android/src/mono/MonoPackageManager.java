@@ -68,6 +68,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"OAuthTwoDemo.XForms.Android.dll",
+		"Facebook.dll",
 		"OAuthTwoDemo.XForms.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Auth.Android.dll",

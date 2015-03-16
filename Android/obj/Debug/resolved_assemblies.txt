@@ -1,10 +1,11 @@
-C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\Android\bin\Debug\OAuthTwoDemo.XForms.Android.dll
-C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\OAuthTwoDemo.XForms\bin\Debug\OAuthTwoDemo.XForms.dll
-C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\packages\Xamarin.Android.Support.v4.19.0.2\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
-C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\Components\xamarin.auth-1.2.2\lib\android\Xamarin.Auth.Android.dll
-C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\packages\Xamarin.Forms.1.0.6186\lib\MonoAndroid10\Xamarin.Forms.Core.dll
-C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\packages\Xamarin.Forms.1.0.6186\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
-C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\packages\Xamarin.Forms.1.0.6186\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
+C:\Users\USER\Desktop\FaceBookApp\Android\bin\Debug\OAuthTwoDemo.XForms.Android.dll
+C:\Users\USER\Desktop\facebook-sdk-6.2.2\lib\android\Facebook.dll
+C:\Users\USER\Desktop\FaceBookApp\OAuthTwoDemo.XForms\bin\Debug\OAuthTwoDemo.XForms.dll
+C:\Users\USER\Desktop\FaceBookApp\packages\Xamarin.Android.Support.v4.19.0.2\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
+C:\Users\USER\Desktop\FaceBookApp\Components\xamarin.auth-1.2.2\lib\android\Xamarin.Auth.Android.dll
+C:\Users\USER\Desktop\FaceBookApp\packages\Xamarin.Forms.1.0.6186\lib\MonoAndroid10\Xamarin.Forms.Core.dll
+C:\Users\USER\Desktop\FaceBookApp\packages\Xamarin.Forms.1.0.6186\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
+C:\Users\USER\Desktop\FaceBookApp\packages\Xamarin.Forms.1.0.6186\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.Concurrent.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.Annotations.dll
