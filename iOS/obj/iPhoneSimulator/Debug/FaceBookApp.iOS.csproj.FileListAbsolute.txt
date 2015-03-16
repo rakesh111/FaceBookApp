@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\OAuthTwoDemoXFormsiOS.exe
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\OAuthTwoDemoXFormsiOS.pdb
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\OAuthTwoDemo.XForms.dll
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\Xamarin.Auth.iOS.dll
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\OAuthTwoDemo.XForms.pdb
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\OAuthTwoDemo.XForms.dll.mdb
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\bin\iPhoneSimulator\Debug\Xamarin.Auth.iOS.xml
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\obj\iPhoneSimulator\Debug\
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\obj\iPhoneSimulator\Debug\FaceBookApp.iOS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\obj\iPhoneSimulator\Debug\OAuthTwoDemoXFormsiOS.exe
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\iOS\obj\iPhoneSimulator\Debug\OAuthTwoDemoXFormsiOS.pdb

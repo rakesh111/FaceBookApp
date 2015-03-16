@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\OAuthTwoDemo.XForms\bin\Debug\OAuthTwoDemo.XForms.dll
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\OAuthTwoDemo.XForms\bin\Debug\OAuthTwoDemo.XForms.pdb
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\OAuthTwoDemo.XForms\bin\Debug\Facebook.dll
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\OAuthTwoDemo.XForms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\OAuthTwoDemo.XForms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\OAuthTwoDemo.XForms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\OAuthTwoDemo.XForms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\OAuthTwoDemo.XForms\obj\Debug\OAuthTwoDemo.XForms.dll
+C:\Users\USER\Desktop\OAuthTwoDemo.XForms-master\OAuthTwoDemo.XForms\obj\Debug\OAuthTwoDemo.XForms.pdb
